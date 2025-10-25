@@ -1,0 +1,7 @@
+
+body { font-family: Arial, sans-serif; scroll-behavior: smooth; }
+main { padding-top: 80px; padding-bottom: 40px; }
+img.thumb { width: 100%; height: auto; border-radius: 8px; }
+.page-wrap { padding-top: 1rem; }
+figure { margin: 0 0 1rem; }
+figcaption { font-size: 0.9rem; color: #6c757d; }
